@@ -1,6 +1,6 @@
-# CE Department Management System
+# Student Management System
 
-A comprehensive Computer Engineering Department management system built with Next.js 14, TypeScript, and PostgreSQL.
+A comprehensive student management system built with Next.js 14, TypeScript, and PostgreSQL.
 
 ## Features
 
